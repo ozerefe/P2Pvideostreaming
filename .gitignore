@@ -1,0 +1,34 @@
+# Maven / Build outputs
+target/
+dependency-reduced-pom.xml
+*.class
+*.jar
+*.war
+
+# IDE
+.idea/
+.vscode/
+*.iml
+*.ipr
+*.iws
+out/
+.classpath
+.project
+.settings/
+
+# macOS
+.DS_Store
+
+# Logs
+*.log
+
+# Runtime video/buffer folders
+videos/
+buffer/
+test-videos/
+1 PROJE DOSYALARI/
+
+# Temporary files
+*.tmp
+*.swp
+
