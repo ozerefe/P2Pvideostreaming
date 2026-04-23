@@ -1,6 +1,6 @@
 # P2P Video Streaming
 
-CSE471 dersi kapsamında geliştirilen, Java Swing tabanlı ve P2P mimarisiyle çalışan bir video akış uygulamasıdır. Peer'ler UDP ile birbirini keşfeder, TCP üzerinden video chunk transferi yapar ve VLCJ ile oynatma tarafını yönetir.
+Java Swing tabanlı ve P2P mimarisiyle çalışan bir video akış uygulamasıdır. Peer'ler UDP ile birbirini keşfeder, TCP üzerinden video chunk transferi yapar ve VLCJ ile oynatma tarafını yönetir.
 
 ## Ozellikler
 
@@ -83,7 +83,6 @@ Calistirilabilir/fat-jar uretmek icin:
 mvn clean package
 ```
 
-## Gelistirme Notlari
+## Notlar
 
-- Bu depo egitim/proje amaclidir.
 - Ag ortaminda test ederken firewall/port izinlerini kontrol edin.
